@@ -1,2 +1,2 @@
 # Weather
- Pogoda z różnych miast
+ Pogoda z Twojej lokalizacji
