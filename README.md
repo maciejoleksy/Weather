@@ -1,4 +1,4 @@
 # Weather
- Pogoda z Twojej lokalizacji
+Weather from your location
  
 https://maciejoleksy.github.io/Weather/
